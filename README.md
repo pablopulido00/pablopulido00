@@ -1,7 +1,7 @@
 # 👋 Hola, soy Pablo Pulido (@pablopulido00)
 
 ## 👀 Sobre mí
-- 📚 Estoy estudiando el grado de **Desarrollo de Aplicaciones Web (DAW)**.
+- 📚 Estoy estudiando el grado superior dual de **Desarrollo de Aplicaciones Web (DAW)**.
 - 💻 Actualmente me estoy formando en diversas tecnologías para fortalecer mis habilidades en desarrollo y preparar mi camino hacia el mundo de la **Inteligencia Artificial (IA)**.
 - 🎯 Mi objetivo a corto plazo es obtener certificaciones clave que me permitan destacar en el mercado laboral y adquirir experiencia práctica.
 
